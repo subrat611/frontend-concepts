@@ -7,9 +7,18 @@ Project stack:
 - Biome
 - Tailwind CSS
 
+Find each sections concepts at `/docs` folder.
+
+## Intro
+
+- Next.js App Router is a modern file-system based routing mechanism built on top of React Server Components.
+- Inside the `app/` folder, each folder represent as a route segment.
+
+Example: `src/app/dashboard` -> in route `/dashboard`
+
 ## Routing Architecture & File System
 
-- [ ] `page.tsx`, `layout.tsx`, `loading.tsx` and `error.tsx` inlcuding nested behaviour
+- [x] `page.tsx`, `layout.tsx`, `loading.tsx` and `error.tsx` inlcuding nested behaviour
 - [ ] Layouts vs Templates - Behaviour, Lifecycles, State Persistent
 - [ ] Dynamic Routing - `[...slug]` vs `[[...slug]]`
 - [ ] Route Grouping - Example `(dashboard)`, `(marketing)`
