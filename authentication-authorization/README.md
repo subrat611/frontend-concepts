@@ -27,9 +27,9 @@ Collected Knowledge
 - The backend looks up the Session ID in Redis/Database to identify the user.
 - This approach is called Stateful because the server maintains the authentication state.
 
-<img src="./assets/session-auth-1.png" alt="session-based-auth-1" width="500px" />
-<img src="./assets/session-auth-2.png" alt="session-based-auth-2" width="500px" />
-<img src="./assets/session-auth-3.png" alt="session-based-auth-3" width="500px" />
+<img src="./assets/session-auth-1.png" alt="session-based-auth-1" width="1000px" />
+<img src="./assets/session-auth-2.png" alt="session-based-auth-2" width="1000px" />
+<img src="./assets/session-auth-3.png" alt="session-based-auth-3" width="1000px" />
 
 ---
 
