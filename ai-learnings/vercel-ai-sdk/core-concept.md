@@ -193,5 +193,4 @@ uffff... lot of things ok now the main question "how to identify when to use wha
                                 SSE        WebSocket
 ```
 
-I will going to do a practical demo using [groq](https://groq.com/).
-f\*\*\*\*k vercel they ask for adding credit card to get $5 free credits.
+I will going to do a demo using [groq](https://groq.com/).
